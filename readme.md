@@ -1,4 +1,4 @@
-### Reject Urls And Emails In Textarea For (Gravity Forms):
+### [Reject Urls And Emails In Textarea For (Gravity Forms)](https://wordpress.org/plugins/reject-urls-and-emails-in-textarea/):
 - __*Contributors:*__ InternalError503
 - __*Tags:*__ gravity forms, gravity, url detection, email detection, validation
 - __*Requires at least:*__ 3.0
@@ -16,6 +16,11 @@ This checks the field type `textarea` and does not require any configuration or 
 Its global, if its turned on, then its working.
 
 This WordPress plugin is brought to you by [toady](https://github.com/InternalError503) from [8pecxstudios.com](https://8pecxstudios.com)
+
+### Download:
+
+1. Direct from repository [reject-urls-and-emails-in-textarea](https://github.com/InternalError503/reject-urls-and-emails-in-textarea/archive/master.zip "Master Branch")
+2. From WordPress.org plugin repository [Reject Urls And Emails In Textarea For (Gravity Forms)](https://wordpress.org/plugins/reject-urls-and-emails-in-textarea/)
 
 ### Installation:
 
