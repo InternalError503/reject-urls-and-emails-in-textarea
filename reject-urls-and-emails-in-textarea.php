@@ -3,7 +3,7 @@
 Plugin Name: Reject Urls And Emails In Textarea For (Gravity Forms)
 Plugin URI: https://github.com/InternalError503/reject-urls-and-emails-in-textarea
 Description: Prevent URLS & Emails in textarea field.
-Version: 1.0
+Version: 1.1
 Author: 8pecxstudios
 Author URI: https://8pecxstudios.com
 License: GPL

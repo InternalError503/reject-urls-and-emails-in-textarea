@@ -3,7 +3,7 @@ Contributors: InternalError503
 Tags: gravity forms, gravity, url detection, email detection, validation
 Requires at least: 3.0
 Tested up to: 4.4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,10 @@ Answer: Since there is no GUI for it this is N/A.
 N/A
 
 == Changelog ==
+
+= 1.1 =
+* Fixed: Die if accessed directly.
+* Removed: Old filter comment.
 
 = 1.0 =
 * Init repo and project.

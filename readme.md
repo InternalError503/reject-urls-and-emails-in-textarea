@@ -3,7 +3,7 @@
 - __*Tags:*__ gravity forms, gravity, url detection, email detection, validation
 - __*Requires at least:*__ 3.0
 - __*Tested up to:*__ 4.4.1
-- __*Stable tag:*__ 1.0
+- __*Stable tag:*__ 1.1
 - __*License:*__ GPLv2 or later
 - __*License URI:*__ http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,6 +45,10 @@ __Question:__ Screenshots or images
 __Answer:__ Since there is no GUI for it this is N/A.
 
 #### Changelog:
+
+##### 1.1
+- Fixed: Die if accessed directly.
+- Removed: Old filter comment.
 
 ##### 1.0
 - Init repo and project.
