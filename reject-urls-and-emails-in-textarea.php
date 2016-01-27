@@ -10,6 +10,12 @@ License: GPL
 Text Domain: reject-urls-and-emails-in-textarea
 */
 
+// Die if accessed directly.
+if (!defined('ABSPATH'))
+{
+	die();
+}
+
 add_filter('gform_validation', 'reject_urls_in_textarea', 10, 2);
 
 function reject_urls_in_textarea($validation_result)
