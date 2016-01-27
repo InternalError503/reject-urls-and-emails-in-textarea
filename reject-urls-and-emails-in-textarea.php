@@ -32,7 +32,6 @@ function reject_urls_in_textarea($validation_result)
 		{
 			// Get the submitted value from the $_POST
 			$field_value = rgpost("input_{$field['id']}");
-			//Old filter "/(http|https|httpx|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?/";
 			$pattern = '#[-a-zA-Z0-9@:%_\+.~\#?&//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~\#?&//=]*)?#si';
 			
 			if (preg_match_all($pattern, $field_value))
